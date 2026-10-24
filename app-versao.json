@@ -1,7 +1,7 @@
 {
-  "versao": "2.0.3",
-  "url": "https://github.com/ArthurH4ck/bettashack-app/releases/download/v2.0.3/Setup-BettasHackApp-2.0.3.exe",
-  "sha256": "30dbe24df3b1bfd49982a02454ed84b3157a79622dfb9946022391d7fd719581",
-  "tamanho": 74955870,
-  "notas": "BettasHack App 2.0.3: os avisos do Windows aparecem como BettasHack App."
+  "versao": "2.0.4",
+  "url": "https://github.com/ArthurH4ck/bettashack-app/releases/download/v2.0.4/Setup-BettasHackApp-2.0.4.exe",
+  "sha256": "90fae6cad4270316bdca60a1170a43ce43839cbcba1be404f933848f91e8243d",
+  "tamanho": 74958320,
+  "notas": "BettasHack App 2.0.4: atualização automática mais robusta, com registro de log."
 }
