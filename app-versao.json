@@ -1,7 +1,7 @@
 {
-  "versao": "2.0.4",
-  "url": "https://github.com/ArthurH4ck/bettashack-app/releases/download/v2.0.4/Setup-BettasHackApp-2.0.4.exe",
-  "sha256": "90fae6cad4270316bdca60a1170a43ce43839cbcba1be404f933848f91e8243d",
-  "tamanho": 74958320,
-  "notas": "BettasHack App 2.0.4: atualização automática mais robusta, com registro de log."
+  "versao": "2.0.6",
+  "url": "https://github.com/ArthurH4ck/bettashack-app/releases/download/v2.0.6/Setup-BettasHackApp-2.0.6.exe",
+  "sha256": "56d2033f444c846c83b87fd666584e86349520fc01b9972a0f5fbce20996ea21",
+  "tamanho": 74963165,
+  "notas": "BettasHack App 2.0.6: atualização automática reformulada, faixas de Configurações corrigidas e foto da placa maior."
 }
