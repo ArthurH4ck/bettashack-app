@@ -1,7 +1,7 @@
 {
-  "versao": "2.0.0",
-  "url": "https://github.com/ArthurH4ck/bettashack-app/releases/download/v2.0.0/Setup-BettasHackApp-2.0.0.exe",
-  "sha256": "f78c3c96ea6ffa0fbc3d6087002335fa36ea87151859e0f41c9b211d02395d8d",
-  "tamanho": 74949741,
-  "notas": "BettasHack App 2.0.0: nova interface, métricas do site, versões e editor de cenas, fila avançada, efeitos de vídeo, auto-atualização."
+  "versao": "2.0.1",
+  "url": "https://github.com/ArthurH4ck/bettashack-app/releases/download/v2.0.1/Setup-BettasHackApp-2.0.1.exe",
+  "sha256": "0304337c93bf4d5bf98a8e1e2079650c7e07f7ab601c10b18a2c368711ddd45b",
+  "tamanho": 74961188,
+  "notas": "BettasHack App 2.0.1: corrige o quadro de votação do Treinar, que saía cortado embaixo."
 }
