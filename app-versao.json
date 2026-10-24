@@ -1,7 +1,7 @@
 {
-  "versao": "2.0.6",
-  "url": "https://github.com/ArthurH4ck/bettashack-app/releases/download/v2.0.6/Setup-BettasHackApp-2.0.6.exe",
-  "sha256": "56d2033f444c846c83b87fd666584e86349520fc01b9972a0f5fbce20996ea21",
-  "tamanho": 74963165,
-  "notas": "BettasHack App 2.0.6: atualização automática reformulada, faixas de Configurações corrigidas e foto da placa maior."
+  "versao": "2.0.7",
+  "url": "https://github.com/ArthurH4ck/bettashack-app/releases/download/v2.0.7/Setup-BettasHackApp-2.0.7.exe",
+  "sha256": "d42c39bb7ec00a75aad649901286b4ed3dc2072380d4371c7ea9438573f7607b",
+  "tamanho": 74950916,
+  "notas": "BettasHack App 2.0.7: o app aberto ao fim da atualização enxerga todos os discos."
 }
