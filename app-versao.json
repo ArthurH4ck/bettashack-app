@@ -1,6 +1,7 @@
 {
-  "versao": "0.0.0",
-  "url": "",
-  "sha256": "",
-  "notas": "Sem versão publicada ainda."
+  "versao": "2.0.0",
+  "url": "https://github.com/ArthurH4ck/bettashack-app/releases/download/v2.0.0/Setup-BettasHackApp-2.0.0.exe",
+  "sha256": "f78c3c96ea6ffa0fbc3d6087002335fa36ea87151859e0f41c9b211d02395d8d",
+  "tamanho": 74949741,
+  "notas": "BettasHack App 2.0.0: nova interface, métricas do site, versões e editor de cenas, fila avançada, efeitos de vídeo, auto-atualização."
 }
