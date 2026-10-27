@@ -1,7 +1,7 @@
 {
-  "versao": "2.0.7",
-  "url": "https://github.com/ArthurH4ck/bettashack-app/releases/download/v2.0.7/Setup-BettasHackApp-2.0.7.exe",
-  "sha256": "d42c39bb7ec00a75aad649901286b4ed3dc2072380d4371c7ea9438573f7607b",
-  "tamanho": 74950916,
-  "notas": "BettasHack App 2.0.7: o app aberto ao fim da atualização enxerga todos os discos."
+  "versao": "2.0.8",
+  "url": "https://github.com/ArthurH4ck/bettashack-app/releases/download/v2.0.8/Setup-BettasHackApp-2.0.8.exe",
+  "sha256": "4670ec25fa2396e57f59f9a75bb1409816138c451139abf606f3f31625d6afa9",
+  "tamanho": 74948842,
+  "notas": "O vídeo de cada lote na fila ficou maior, sem corte, e agora pode ser visto em tela cheia."
 }
