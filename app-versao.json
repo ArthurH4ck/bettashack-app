@@ -1,7 +1,7 @@
 {
-  "versao": "2.0.11",
-  "url": "https://github.com/ArthurH4ck/bettashack-app/releases/download/v2.0.11/Setup-BettasHackApp-2.0.11.exe",
-  "sha256": "c9d6794f57b5458423f2cf04524fe2a3055725a98946e4e7bb22a23dace406e8",
-  "tamanho": 74964614,
-  "notas": "Corrige a tabela do resultado do treino que escapava do card."
+  "versao": "2.0.12",
+  "url": "https://github.com/ArthurH4ck/bettashack-app/releases/download/v2.0.12/Setup-BettasHackApp-2.0.12.exe",
+  "sha256": "e0a138a8672cbcdcef747d18d5ad6f351844ceb2c17a2a9bf9c3d158f647c4e6",
+  "tamanho": 74960888,
+  "notas": "Prévias de vídeo não começam mais com fade-in (tela preta no preview do WhatsApp)."
 }
