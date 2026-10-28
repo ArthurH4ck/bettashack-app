@@ -1,7 +1,7 @@
 {
-  "versao": "2.0.9",
-  "url": "https://github.com/ArthurH4ck/bettashack-app/releases/download/v2.0.9/Setup-BettasHackApp-2.0.9.exe",
-  "sha256": "bbb16b2975427931cb0362bbe84762cb2f96803db3897d58f12298eaf7747921",
-  "tamanho": 74946616,
-  "notas": "Placa e vídeo em sequência (menos carga na GPU); se a GPU falhar, segue pela CPU e avisa na fila."
+  "versao": "2.0.10",
+  "url": "https://github.com/ArthurH4ck/bettashack-app/releases/download/v2.0.10/Setup-BettasHackApp-2.0.10.exe",
+  "sha256": "cac230b94c11cb73a19127ccb90e88a13597d5116f4db4549fc4c8266e58a8a1",
+  "tamanho": 74951889,
+  "notas": "Conferir versões acha o original; resumo do topo por sessão; cancelar não trava a fila; aviso quando a GPU falha."
 }
