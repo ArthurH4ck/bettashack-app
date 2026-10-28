@@ -1,7 +1,7 @@
 {
-  "versao": "2.0.10",
-  "url": "https://github.com/ArthurH4ck/bettashack-app/releases/download/v2.0.10/Setup-BettasHackApp-2.0.10.exe",
-  "sha256": "cac230b94c11cb73a19127ccb90e88a13597d5116f4db4549fc4c8266e58a8a1",
-  "tamanho": 74951889,
-  "notas": "Conferir versões acha o original; resumo do topo por sessão; cancelar não trava a fila; aviso quando a GPU falha."
+  "versao": "2.0.11",
+  "url": "https://github.com/ArthurH4ck/bettashack-app/releases/download/v2.0.11/Setup-BettasHackApp-2.0.11.exe",
+  "sha256": "c9d6794f57b5458423f2cf04524fe2a3055725a98946e4e7bb22a23dace406e8",
+  "tamanho": 74964614,
+  "notas": "Corrige a tabela do resultado do treino que escapava do card."
 }
