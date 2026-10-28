@@ -1,7 +1,7 @@
 {
-  "versao": "2.0.8",
-  "url": "https://github.com/ArthurH4ck/bettashack-app/releases/download/v2.0.8/Setup-BettasHackApp-2.0.8.exe",
-  "sha256": "4670ec25fa2396e57f59f9a75bb1409816138c451139abf606f3f31625d6afa9",
-  "tamanho": 74948842,
-  "notas": "O vídeo de cada lote na fila ficou maior, sem corte, e agora pode ser visto em tela cheia."
+  "versao": "2.0.9",
+  "url": "https://github.com/ArthurH4ck/bettashack-app/releases/download/v2.0.9/Setup-BettasHackApp-2.0.9.exe",
+  "sha256": "bbb16b2975427931cb0362bbe84762cb2f96803db3897d58f12298eaf7747921",
+  "tamanho": 74946616,
+  "notas": "Placa e vídeo em sequência (menos carga na GPU); se a GPU falhar, segue pela CPU e avisa na fila."
 }
