@@ -1,7 +1,7 @@
 {
-  "versao": "2.4.0",
-  "url": "https://github.com/ArthurH4ck/bettashack-app/releases/download/v2.4.0/Setup-BettasHackApp-2.4.0.exe",
-  "sha256": "8b33b7095888055772f4937203001483c0cba2928785d134e59b7caa226acc5a",
-  "tamanho": 74994899,
-  "notas": "Prévias pelo celular: enviar vídeo como prévia e gerar prévia de um lote já pronto."
+  "versao": "2.4.1",
+  "url": "https://github.com/ArthurH4ck/bettashack-app/releases/download/v2.4.1/Setup-BettasHackApp-2.4.1.exe",
+  "sha256": "c1786a7bde5b142986320c5d73e07e8457842aaaef75a87a6d5e86f5c3307803",
+  "tamanho": 75005345,
+  "notas": "Novo botão Liberar RAM na aba Recortar: fecha o Ollama e os modelos para liberar memória."
 }
