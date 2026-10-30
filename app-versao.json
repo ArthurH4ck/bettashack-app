@@ -1,7 +1,7 @@
 {
-  "versao": "2.3.0",
-  "url": "https://github.com/ArthurH4ck/bettashack-app/releases/download/v2.3.0/Setup-BettasHackApp-2.3.0.exe",
-  "sha256": "10b45631d4cbe201479c4746ba924a4eecedae6f2339e22991b3436082ed55fc",
-  "tamanho": 74997425,
-  "notas": "Página do celular refeita (abas, envio com progresso, estado preciso) e conferência da etiqueta com renomear lote pelo celular."
+  "versao": "2.4.0",
+  "url": "https://github.com/ArthurH4ck/bettashack-app/releases/download/v2.4.0/Setup-BettasHackApp-2.4.0.exe",
+  "sha256": "8b33b7095888055772f4937203001483c0cba2928785d134e59b7caa226acc5a",
+  "tamanho": 74994899,
+  "notas": "Prévias pelo celular: enviar vídeo como prévia e gerar prévia de um lote já pronto."
 }
