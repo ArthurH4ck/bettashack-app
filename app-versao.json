@@ -1,7 +1,7 @@
 {
-  "versao": "2.2.0",
-  "url": "https://github.com/ArthurH4ck/bettashack-app/releases/download/v2.2.0/Setup-BettasHackApp-2.2.0.exe",
-  "sha256": "12e66d2732bb75e724bff5e7e7866f15de17796a80ffb8aef9b68ac8cd4c636f",
-  "tamanho": 74999214,
-  "notas": "Ponte do celular (envie vídeos pelo celular, o PC processa, baixe o resultado) e botão Iniciar ferramentas (programas, Ollama e modelos) na aba Recortar."
+  "versao": "2.2.1",
+  "url": "https://github.com/ArthurH4ck/bettashack-app/releases/download/v2.2.1/Setup-BettasHackApp-2.2.1.exe",
+  "sha256": "d6eed2931de1b3da43775d9ad30cd0f2666a7018659d4cc17646774458861759",
+  "tamanho": 74993626,
+  "notas": "Iniciar processamento pelo celular e leitura da etiqueta nos vídeos recebidos pela ponte (antes eram pulados e ficavam sem o número do lote)."
 }
