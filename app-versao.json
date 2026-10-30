@@ -1,7 +1,7 @@
 {
-  "versao": "2.1.0",
-  "url": "https://github.com/ArthurH4ck/bettashack-app/releases/download/v2.1.0/Setup-BettasHackApp-2.1.0.exe",
-  "sha256": "2998daa1e547ccd0f758a982753c9c3802ae42dc6870f096ca5bbf8ceb4cdb94",
-  "tamanho": 74979560,
-  "notas": "Painel de ferramentas (GPU, Ollama e modelo, ffmpeg) e fila que só começa ao clicar em Iniciar, com todas as ferramentas ativas."
+  "versao": "2.2.0",
+  "url": "https://github.com/ArthurH4ck/bettashack-app/releases/download/v2.2.0/Setup-BettasHackApp-2.2.0.exe",
+  "sha256": "12e66d2732bb75e724bff5e7e7866f15de17796a80ffb8aef9b68ac8cd4c636f",
+  "tamanho": 74999214,
+  "notas": "Ponte do celular (envie vídeos pelo celular, o PC processa, baixe o resultado) e botão Iniciar ferramentas (programas, Ollama e modelos) na aba Recortar."
 }
