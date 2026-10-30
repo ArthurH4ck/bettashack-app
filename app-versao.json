@@ -1,7 +1,7 @@
 {
-  "versao": "2.2.1",
-  "url": "https://github.com/ArthurH4ck/bettashack-app/releases/download/v2.2.1/Setup-BettasHackApp-2.2.1.exe",
-  "sha256": "d6eed2931de1b3da43775d9ad30cd0f2666a7018659d4cc17646774458861759",
-  "tamanho": 74993626,
-  "notas": "Iniciar processamento pelo celular e leitura da etiqueta nos vídeos recebidos pela ponte (antes eram pulados e ficavam sem o número do lote)."
+  "versao": "2.3.0",
+  "url": "https://github.com/ArthurH4ck/bettashack-app/releases/download/v2.3.0/Setup-BettasHackApp-2.3.0.exe",
+  "sha256": "10b45631d4cbe201479c4746ba924a4eecedae6f2339e22991b3436082ed55fc",
+  "tamanho": 74997425,
+  "notas": "Página do celular refeita (abas, envio com progresso, estado preciso) e conferência da etiqueta com renomear lote pelo celular."
 }
