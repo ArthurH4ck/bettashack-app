@@ -1,7 +1,7 @@
 {
-  "versao": "2.4.1",
-  "url": "https://github.com/ArthurH4ck/bettashack-app/releases/download/v2.4.1/Setup-BettasHackApp-2.4.1.exe",
-  "sha256": "c1786a7bde5b142986320c5d73e07e8457842aaaef75a87a6d5e86f5c3307803",
-  "tamanho": 75005345,
-  "notas": "Novo botão Liberar RAM na aba Recortar: fecha o Ollama e os modelos para liberar memória."
+  "versao": "2.4.2",
+  "url": "https://github.com/ArthurH4ck/bettashack-app/releases/download/v2.4.2/Setup-BettasHackApp-2.4.2.exe",
+  "sha256": "9cb6cc0ae53af79c52dd89df5ceab25bde0161ac8799a732a71b48213cf7101c",
+  "tamanho": 75013403,
+  "notas": "Insight de pagamentos: nao conta mais cancelamentos do sistema."
 }
