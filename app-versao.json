@@ -1,7 +1,7 @@
 {
-  "versao": "2.4.2",
-  "url": "https://github.com/ArthurH4ck/bettashack-app/releases/download/v2.4.2/Setup-BettasHackApp-2.4.2.exe",
-  "sha256": "9cb6cc0ae53af79c52dd89df5ceab25bde0161ac8799a732a71b48213cf7101c",
-  "tamanho": 75013403,
-  "notas": "Insight de pagamentos: nao conta mais cancelamentos do sistema."
+  "versao": "2.4.3",
+  "url": "https://github.com/ArthurH4ck/bettashack-app/releases/download/v2.4.3/Setup-BettasHackApp-2.4.3.exe",
+  "sha256": "48fa52a32a57d6a18d0505c2d33a4c24948ebee83c76a57dfe3270d0848acab9",
+  "tamanho": 74999837,
+  "notas": "Cartao da Evolution mostra a ultima mensagem recebida e distingue IP bloqueado de chave recusada."
 }
