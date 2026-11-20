@@ -1,7 +1,7 @@
 {
-  "versao": "2.4.3",
-  "url": "https://github.com/ArthurH4ck/bettashack-app/releases/download/v2.4.3/Setup-BettasHackApp-2.4.3.exe",
-  "sha256": "48fa52a32a57d6a18d0505c2d33a4c24948ebee83c76a57dfe3270d0848acab9",
-  "tamanho": 74999837,
-  "notas": "Cartao da Evolution mostra a ultima mensagem recebida e distingue IP bloqueado de chave recusada."
+  "versao": "2.5.0",
+  "url": "https://github.com/ArthurH4ck/bettashack-app/releases/download/v2.5.0/Setup-BettasHackApp-2.5.0.exe",
+  "sha256": "4bb60551fadfe25e655038858c635a456d0e940faed523d986df2b628f112253",
+  "tamanho": 75005816,
+  "notas": "Nova aba Ferramentas para ligar e desligar os runners do CI e muito menos memória: ao fechar para a bandeja o app libera o navegador embutido."
 }
