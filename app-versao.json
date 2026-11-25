@@ -1,7 +1,7 @@
 {
-  "versao": "2.5.0",
-  "url": "https://github.com/ArthurH4ck/bettashack-app/releases/download/v2.5.0/Setup-BettasHackApp-2.5.0.exe",
-  "sha256": "4bb60551fadfe25e655038858c635a456d0e940faed523d986df2b628f112253",
-  "tamanho": 75005816,
-  "notas": "Nova aba Ferramentas para ligar e desligar os runners do CI e muito menos memória: ao fechar para a bandeja o app libera o navegador embutido."
+  "versao": "2.5.1",
+  "url": "https://github.com/ArthurH4ck/bettashack-app/releases/download/v2.5.1/Setup-BettasHackApp-2.5.1.exe",
+  "sha256": "9cd16ec420ccf525cf8c17c4455bfb32ca5538af94e6d2eeccf6c17daa434564",
+  "tamanho": 75027333,
+  "notas": "Corrige as cores lavadas de videos HDR do celular: miniaturas, fotos, previa e video final agora passam por tonemap para SDR."
 }
